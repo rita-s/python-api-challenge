@@ -22,7 +22,7 @@ A series of scatter plots was created to showcase the following relationships:
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
 
-### 🌴 Part 2: VacationPy
+## 🌴 Part 2: VacationPy
 
 * Creating a heat map that displays the humidity for every city from Part 1, as in the following image:
 
@@ -35,6 +35,4 @@ A series of scatter plots was created to showcase the following relationships:
   ![hotel map](Images/hotel_map.png)
 
 ## 📚 References
-
-
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
